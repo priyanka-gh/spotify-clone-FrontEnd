@@ -13,7 +13,7 @@ function Footer() {
     return (
         <div className="footer">
             <div className="footer__left">
-                <img className="footer__albumLogo" src="https://cdn.shopify.com/s/files/1/0011/4651/9637/products/DigitalDownload_1000x_86023b11-8f26-4041-bb62-f18c5a55069d_900x.png?v=1613043167"></img>
+                <img className="footer__albumLogo" alt="" src="https://cdn.shopify.com/s/files/1/0011/4651/9637/products/DigitalDownload_1000x_86023b11-8f26-4041-bb62-f18c5a55069d_900x.png?v=1613043167"></img>
             <div className="footer__songInfo">
                 <h4>You Belong With Me</h4>
                 <p>Taylor Swift</p>
